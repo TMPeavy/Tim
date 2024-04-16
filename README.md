@@ -5,11 +5,11 @@
 
 - 👨‍💻 All of my projects are available at [TacariousPeavy.com](TacariousPeavy.com)
 
-- 💬 Ask me about **Front-end Dev, Back-end Dev, Cybersecurity, & AWS**
+- 💬 Ask me about **Front-end Dev, Back-end Dev, Cybersecurity, & UI/UX Desgin AWS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tacarious" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tacarious" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tacarious" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tacariouspeavy" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/24380258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24380258" height="30" width="40" /></a>
 <a href="https://codesandbox.com/tacarious" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="tacarious" height="30" width="40" /></a>
 </p>
