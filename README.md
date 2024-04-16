@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tacarious</h1>
 <h3 align="center">A Full-Stack Developer and Cybersecurity Enthusiast</h3>
 
-- 🔭 I’m currently working on **Personal Projects**
+- 🔭 I’m currently working on **Non-Work related Personal Projects & Applications that I can share publicly**
 
 - 👨‍💻 All of my projects are available at [TacariousPeavy.com](TacariousPeavy.com)
 
