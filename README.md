@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Non-Work related Personal Dev Projects & Applications that I can share publicly**
 
-- 👨‍💻 All of my projects are available at [TacariousPeavy.com](TacariousPeavy.dev)
+- 👨‍💻 All of my projects are available at [TacariousPeavy.dev](TacariousPeavy.dev)
 
 - 💬 Ask me about **Front-end Dev, Back-end Dev, Cybersecurity, UI/UX Desgin, & AWS**
 
