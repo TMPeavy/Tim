@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Tacarious</h1>
 <h3 align="center">A Full-Stack Developer and Cybersecurity Enthusiast</h3>
 
-- 🔭 I’m currently working on **Non-Work related Personal Dev Projects & Applications that I can share publicly**
-
-- 👨‍💻 All of my projects are available at [TacariousPeavy.dev](TacariousPeavy.dev)
+- 🔭 I’m currently working on **Non-Work related Personal Cloud Projects & Mobile Applications that I am allowed to publically share**
 
 - 💬 Ask me about **Front-end Dev, Back-end Dev, Cybersecurity, UI/UX Desgin, & AWS**
 
