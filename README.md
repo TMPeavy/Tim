@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Tacarious</h1>
-<h3 align="center">A Full-Stack Developer and Cybersecurity Enthusiast</h3>
+<h3 align="center">A Full-Stack Developer, Drone Pilot, and Cybersecurity Enthusiast</h3>
 
 - 🔭 I’m currently working on **Non-Work related Personal Cloud Projects & Mobile Applications that I am allowed to publically share**
 
-- 💬 Ask me about **Front-end Dev, Back-end Dev, Cybersecurity, UI/UX Desgin, & AWS**
+- 💬 Ask me about **Front-end Dev, Back-end Dev, Cybersecurity, UI/UX Desgin, AWS and Drones!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
