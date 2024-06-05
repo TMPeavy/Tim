@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Tacarious</h1>
-<h3 align="center">A Full-Stack Developer, Drone Pilot, and Cybersecurity Enthusiast</h3>
+<h3 align="center">A Full-Stack Developer, UI/UX Designer, and Drone Enthusiast </h3>
 
 - 🔭 I’m currently working on **Non-Work related Personal Cloud Projects & Mobile Applications that I am allowed to publically share**
 
