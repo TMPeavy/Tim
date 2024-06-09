@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Non-Work related Personal Cloud Projects & Mobile Applications that I am allowed to publically share**
 
-- 💬 Ask me about **Front-end Dev, Back-end Dev, Cybersecurity, UI/UX Desgin, AWS and Drones!**
+- 💬 Ask me about **Front-end Dev, Back-end Dev, Cybersecurity, UI/UX Desgin, AWS, Azure and Drones!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
