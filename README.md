@@ -1,9 +1,5 @@
-<h1 align="center">Hi, I'm Tacarious</h1>
-<h3 align="center">A Full-Stack Developer, UI/UX Designer, and Drone Enthusiast </h3>
-
-- 🔭 I’m currently working on **Non-Work related Personal Cloud Projects & Mobile Applications that I am allowed to publically share**
-
-- 💬 Ask me about **Front-end Dev, Back-end Dev, Cybersecurity, UI/UX Desgin, AWS, Azure and Drones!**
+<h1 align="center"> Tacarious Peavy </h1>
+<h3 align="center"> Repository for Mobile applications and cloud projects  </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
