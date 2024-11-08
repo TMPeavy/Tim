@@ -1,4 +1,4 @@
-<h1 align="center"> Tacarious Peavy </h1>
+<h1 align="center"> Tim Peavy </h1>
 <h3 align="center"> Repository for mobile applications and cloud projects  </h3>
 
 <h3 align="left">Connect with me:</h3>
